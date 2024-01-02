@@ -1,0 +1,3 @@
+models/models--facebook--wav2vec2-xls-r-300m/blobs/d5e490574712ad0a6736923b9ed11d4cd51c78609c36205f704fc4e87b11d2e0 filter=lfs diff=lfs merge=lfs -text
+models/models--xlm-roberta-base/blobs/6fd4797bc397c3b8b55d6bb5740366b57e6a3ce91c04c77f22aafc0c128e6feb filter=lfs diff=lfs merge=lfs -text
+*.pth filter=lfs diff=lfs merge=lfs -text
