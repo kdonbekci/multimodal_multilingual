@@ -2,6 +2,7 @@ data/CH-SIMS/
 data/CH-SIMS.tar
 data/CMU-MOSEI/
 data/CMU-MOSEI.tar
+data/preprocessed/
 .ipynb_checkpoints/
 __pycache__/
 .locks/
